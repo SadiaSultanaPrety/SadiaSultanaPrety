@@ -7,7 +7,7 @@
 
 ---
 
-### 🧐 About Me
+### About Me
 I am a dedicated **Software Quality Assurance (QA) Tester** with a strong foundation in manual and backend testing. I am passionate about finding bugs and ensuring software excellence through meticulous documentation and validation.
 
 - ✅ **Manual Testing:** Successfully completed projects including Test Case design, Bug Reporting (STLC), and SDLC methodologies.
