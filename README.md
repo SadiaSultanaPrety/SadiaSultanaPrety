@@ -29,8 +29,8 @@ I am a dedicated **Software Quality Assurance (QA) Tester** with a strong founda
 ### 📂 Featured Projects
 | Project Name | Tech Stack | Link |
 | :--- | :--- | :--- |
-| **OrangeHRM Manual QA** | Manual Testing, STLC, Excel | [View Project](https://github.com/SadiaSultanaPrety/OrangeHRM-Manual-QA) |
-| **API Testing & Mock Server** | Postman, Newman, Assertions | [View Project](https://github.com/SadiaSultanaPrety/API-Testing-Postman) |
+| **OrangeHRM Manual QA** | Manual Testing, STLC, Excel | [View Project](https://github.com/SadiaSultanaPrety/OrangeHRM-QA-Project) |
+| **API Testing & Mock Server** | Postman, Newman, Assertions | [View Project](https://github.com/SadiaSultanaPrety/API-Testing-Postman-MockServer) |
 
 ---
 
@@ -43,8 +43,12 @@ I am a dedicated **Software Quality Assurance (QA) Tester** with a strong founda
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://linkedin.com/in/sadiasultanaprety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiasultanaprety" height="30" width="40" /></a>
-<a href="mailto:itssadiapriti9@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="itssadiapriti9@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadiasultanaprety" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:itssadiapriti9@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 ---
