@@ -17,8 +17,7 @@
 
 ### 🛠️ My Testing Toolbox
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,sheets,md" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,google sheets,google docs, postman" />
   </a>
 </p>
 
