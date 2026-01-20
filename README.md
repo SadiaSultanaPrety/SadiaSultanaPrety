@@ -19,7 +19,7 @@ I am a dedicated **Software Quality Assurance (QA) Tester** with a strong founda
 ### 🛠️ My Testing Toolbox
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,java,selenium,googlesheets,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,java,selenium,excel,vscode" />
   </a>
 </p>
  
