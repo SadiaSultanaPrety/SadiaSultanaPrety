@@ -8,18 +8,21 @@
 ---
 
 ### 🧐 About Me
-- 🔭 I’m currently building my portfolio with real-world **Manual Testing** projects.
-- 🌱 I focus on **STLC, Bug Reporting, and Test Case Design**.
-- 💼 Check out my latest project: **[OrangeHRM Manual QA Project](https://github.com/SadiaSultanaPrety/OrangeHRM-QA-Project)** 
-- 💬 Ask me about **Manual QA, Bug Life Cycle, or Software Excellence**.
+I am a dedicated **Software Quality Assurance (QA) Tester** with a strong foundation in manual and backend testing. I am passionate about finding bugs and ensuring software excellence through meticulous documentation and validation.
 
+- ✅ **Manual Testing:** Successfully completed projects including Test Case design, Bug Reporting (STLC), and SDLC methodologies.
+- 🌐 **API Testing:** Proficient in **Postman**, collection management, Assertions, and **Mock Server** creation.
+- 🤖 **Automation:** Currently learning **Selenium WebDriver with Java** to transition into Automation Testing.
+- 📊 **Reporting:** Experienced in generating execution reports using **Newman** and manual summary sheets.
 ---
 
 ### 🛠️ My Testing Toolbox
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,google sheets,google docs, postman" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,java,selenium,sheets,vscode" />
   </a>
 </p>
+ 
 
 ---
 
