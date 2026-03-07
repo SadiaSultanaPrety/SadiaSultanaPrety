@@ -29,7 +29,7 @@ I am a dedicated **Software Quality Assurance (QA) Tester** with a strong founda
 ### 📂 Featured Projects
 | Project Name | Tech Stack | Link |
 | :--- | :--- | :--- |
-| **OrangeHRM Login Automation Test using Selenium TestNG** | Manual Testing, STLC, Excel | [View Project](https://github.com/SadiaSultanaPrety/OrangeHRMSeleniumTestNG)) |
+| **OrangeHRM Login Automation Test using Selenium TestNG** | Manual Testing, STLC, Excel | [View Project](https://github.com/SadiaSultanaPrety/OrangeHRMSeleniumTestNG) |
 | **OrangeHRM Manual QA** | Manual Testing, STLC, Excel | [View Project](https://github.com/SadiaSultanaPrety/OrangeHRM-QA-Project) |
 | **API Testing & Mock Server** | Postman, Newman, Assertions | [View Project](https://github.com/SadiaSultanaPrety/API-Testing-Postman-MockServer) |
 
