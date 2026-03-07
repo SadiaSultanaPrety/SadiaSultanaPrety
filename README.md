@@ -37,7 +37,7 @@ I am a dedicated **Software Quality Assurance (QA) Tester** with a strong founda
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadiaSultanaPrety&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SadiaSultanaPrety&theme=radical)
 
 ---
 
